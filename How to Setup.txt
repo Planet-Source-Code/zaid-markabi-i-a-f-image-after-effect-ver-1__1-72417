@@ -1,0 +1,18 @@
+Image After Effect - v.1
+
+How to Setup ?
+1- Run (Setup.exe) included in (Setup.rar)
+2- Run (Image_After_Effect.exe)
+
+
+What is I.A.E ?
+Image After Effect (IAE) is free trial software,
+let you to add effects on your photos,
+you can change mouth, eyes and your other face styles..
+
+
+this program written in Visual Basic 6.0
+using DirectX 8.1 & Truevision3D 6.2
+
+
+_ Zaid Markabi
